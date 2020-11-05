@@ -8,3 +8,7 @@ https://ko.bccrwp.org/compare/falcon-vs-flask-which-one-to-pick-to-create-a-scal
 
 파이썬(python)Flask - ML & DL REST API 
 https://niceman.tistory.com/192
+
+딥러닝 관련 강의
+
+https://wikidocs.net/71597
