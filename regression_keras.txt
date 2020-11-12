@@ -1,2 +1,3 @@
 https://www.pyimagesearch.com/2019/01/21/regression-with-keras/
 
+https://frhyme.github.io/machine-learning/regression_using_keras/
