@@ -12,3 +12,6 @@ https://niceman.tistory.com/192
 딥러닝 관련 강의
 
 https://wikidocs.net/71597
+
+# using keras
+https://iamalivingcontradiction.wordpress.com/2015/11/17/how-to-build-a-prediction-api-in-10-minutes-with-flask-swagger-and-scipy/
